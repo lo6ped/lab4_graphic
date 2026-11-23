@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows 11\\source\\repos\\Lab4Maksimenko\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DCD60F-E345-4A2E-96AD-045CE50FA590}|Lab4Maksimenko\\Lab4Maksimenko.csproj|c:\\users\\windows 11\\source\\repos\\lab4maksimenko\\lab4maksimenko\\lab4maksimenko.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9DCD60F-E345-4A2E-96AD-045CE50FA590}|Lab4Maksimenko\\Lab4Maksimenko.csproj|solutionrelative:lab4maksimenko\\lab4maksimenko.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9DCD60F-E345-4A2E-96AD-045CE50FA590}|Lab4Maksimenko\\Lab4Maksimenko.csproj|c:\\users\\windows 11\\source\\repos\\lab4maksimenko\\lab4maksimenko\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9DCD60F-E345-4A2E-96AD-045CE50FA590}|Lab4Maksimenko\\Lab4Maksimenko.csproj|solutionrelative:lab4maksimenko\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\source\\repos\\Lab4Maksimenko\\Lab4Maksimenko\\Program.cs",
+              "RelativeDocumentMoniker": "Lab4Maksimenko\\Program.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\source\\repos\\Lab4Maksimenko\\Lab4Maksimenko\\Program.cs",
+              "RelativeToolTip": "Lab4Maksimenko\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T15:41:13.333Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab4Maksimenko.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\source\\repos\\Lab4Maksimenko\\Lab4Maksimenko\\Lab4Maksimenko.cs",
+              "RelativeDocumentMoniker": "Lab4Maksimenko\\Lab4Maksimenko.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\source\\repos\\Lab4Maksimenko\\Lab4Maksimenko\\Lab4Maksimenko.cs",
+              "RelativeToolTip": "Lab4Maksimenko\\Lab4Maksimenko.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAIwKsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T15:40:51.613Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
